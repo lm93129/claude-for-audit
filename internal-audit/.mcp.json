@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "ERP": {
+      "type": "http",
+      "url": "",
+      "title": "企业 ERP 系统",
+      "description": "获取运营数据和财务数据，用于流程分析和数据审计"
+    },
+    "OA": {
+      "type": "http",
+      "url": "",
+      "title": "企业 OA 系统",
+      "description": "获取审批流程、制度文档、权限配置"
+    },
+    "EnterpriseIM": {
+      "type": "http",
+      "url": "",
+      "title": "企业即时通讯",
+      "description": "内部沟通、审计协调、文件交换"
+    }
+  },
+  "recommendedCategories": [
+    "audit",
+    "compliance",
+    "document-management"
+  ]
+}
