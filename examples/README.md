@@ -24,6 +24,10 @@
    - ERP 权限与访问控制专项 IT 审计示例
    - 覆盖：gc-attestation → application-control → caatt
 
+6. `audit-quality-high-risk-eqcr/`
+   - 高风险项目 EQCR / 质量复核示例
+   - 覆盖：independence-check → engagement-review → documentation-qc → ethics-screener
+
 ## 使用方式
 
 先阅读每个目录下的 `README.md`，再按其中的建议步骤调用对应插件技能。
