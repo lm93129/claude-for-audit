@@ -1,0 +1,8 @@
+{
+  "name": "it-audit",
+  "version": "0.1.0",
+  "description": "IT审计——一般控制、应用控制、数据迁移、等保2.0、计算机辅助审计",
+  "author": {
+    "name": ""
+  }
+}

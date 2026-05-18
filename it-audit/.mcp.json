@@ -1,0 +1,40 @@
+{
+  "mcpServers": {
+    "ITSM": {
+      "type": "http",
+      "url": "",
+      "title": "IT 服务管理系统",
+      "description": "获取工单、变更单、事件单、问题单和配置项信息"
+    },
+    "IAM": {
+      "type": "http",
+      "url": "",
+      "title": "身份与权限管理系统",
+      "description": "获取用户、角色、权限分配、审批和离职禁用记录"
+    },
+    "CMDB": {
+      "type": "http",
+      "url": "",
+      "title": "配置管理数据库",
+      "description": "资产、服务器、数据库、中间件、网络设备和系统依赖关系"
+    },
+    "Security": {
+      "type": "http",
+      "url": "",
+      "title": "安全平台/SIEM",
+      "description": "登录日志、告警、漏洞、基线、补丁和安全事件"
+    },
+    "DocumentStorage": {
+      "type": "http",
+      "url": "",
+      "title": "文档存储",
+      "description": "制度、流程、架构图、测试证据、脚本和日志归档"
+    }
+  },
+  "recommendedCategories": [
+    "it-audit",
+    "security",
+    "identity-management",
+    "document-management"
+  ]
+}
