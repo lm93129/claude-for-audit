@@ -16,7 +16,7 @@
     {
       "name": "internal-audit",
       "source": "./internal-audit",
-      "description": "内部审计——审计方案制定、流程图、风险控制矩阵、数据分析、审计发现、整改跟踪",
+      "description": "内部审计——审计方案制定、流程图、风险控制矩阵、数据分析、审计发现、整改跟踪及内审报告起草",
       "author": {
         "name": ""
       }
@@ -40,7 +40,7 @@
     {
       "name": "forensic-audit",
       "source": "./forensic-audit",
-      "description": "司法会计/舞弊审计——红旗识别、电子取证、异常交易分析、本福特定律、举报线索",
+      "description": "司法会计/舞弊审计——红旗识别、电子取证、异常交易分析、本福特定律检验、举报线索三色分类",
       "author": {
         "name": ""
       }
@@ -48,7 +48,7 @@
     {
       "name": "audit-quality",
       "source": "./audit-quality",
-      "description": "审计质量监控——独立性检查、三级复核、同业互查、底稿质控、职业道德筛查",
+      "description": "审计质量监控——独立性检查、项目复核、同业互查、底稿质控、职业道德筛查",
       "author": {
         "name": ""
       }
