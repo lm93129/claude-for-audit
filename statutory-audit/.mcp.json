@@ -1,0 +1,41 @@
+{
+  "mcpServers": {
+    "ERP": {
+      "type": "http",
+      "url": "",
+      "title": "企业 ERP 系统",
+      "description": "从企业 ERP 系统（用友/金蝶/SAP/Oracle）获取总账、科目余额表、明细账、序时账等会计数据"
+    },
+    "BankStatement": {
+      "type": "http",
+      "url": "",
+      "title": "银行流水接口",
+      "description": "自动获取被审计单位的银行对账单和银行流水数据"
+    },
+    "BusinessRegistry": {
+      "type": "http",
+      "url": "",
+      "title": "企查查/天眼查",
+      "description": "工商信息查询——关联方关系、股权结构、行政处罚、涉诉信息"
+    },
+    "EnterpriseIM": {
+      "type": "http",
+      "url": "",
+      "title": "企业即时通讯",
+      "description": "企业微信/飞书/钉钉——沟通记录、文件传输、被审计单位联系"
+    },
+    "DocumentStorage": {
+      "type": "http",
+      "url": "",
+      "title": "文档存储",
+      "description": "企业网盘/飞书文档/SharePoint——底稿存档和模板库"
+    }
+  },
+  "recommendedCategories": [
+    "accounting",
+    "erp",
+    "document-management",
+    "chat",
+    "compliance"
+  ]
+}

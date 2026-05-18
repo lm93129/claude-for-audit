@@ -1,0 +1,8 @@
+{
+  "name": "statutory-audit",
+  "version": "0.1.0",
+  "description": "法定财务报表审计——风险评估、重要性水平、实质性程序、函证、分析性复核、审计底稿生成及报告起草",
+  "author": {
+    "name": ""
+  }
+}

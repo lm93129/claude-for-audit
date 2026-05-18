@@ -1,0 +1,57 @@
+{
+  "name": "claude-for-audit",
+  "description": "参考代理、技能和数据连接器，覆盖财务审计最常见的工作流——法定审计、内部审计、合规审计、IT审计、司法会计及审计质量监控",
+  "owner": {
+    "name": ""
+  },
+  "plugins": [
+    {
+      "name": "statutory-audit",
+      "source": "./statutory-audit",
+      "description": "法定财务报表审计——风险评估、重要性水平、实质性程序、函证、分析性复核、审计底稿生成及报告起草",
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "name": "internal-audit",
+      "source": "./internal-audit",
+      "description": "内部审计——审计方案制定、流程图、风险控制矩阵、数据分析、审计发现、整改跟踪",
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "name": "compliance-audit",
+      "source": "./compliance-audit",
+      "description": "合规审计——法规检索、个保法合规、反商业贿赂、税务合规、内控合规评价",
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "name": "it-audit",
+      "source": "./it-audit",
+      "description": "IT审计——一般控制、应用控制、数据迁移、等保2.0、计算机辅助审计",
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "name": "forensic-audit",
+      "source": "./forensic-audit",
+      "description": "司法会计/舞弊审计——红旗识别、电子取证、异常交易分析、本福特定律、举报线索",
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "name": "audit-quality",
+      "source": "./audit-quality",
+      "description": "审计质量监控——独立性检查、三级复核、同业互查、底稿质控、职业道德筛查",
+      "author": {
+        "name": ""
+      }
+    }
+  ]
+}
