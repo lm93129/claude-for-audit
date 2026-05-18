@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "ERP": {
+      "type": "http",
+      "url": "",
+      "title": "企业 ERP 系统",
+      "description": "获取序时账、总账、明细账，用于异常交易分析和 Benford 检验"
+    },
+    "BusinessRegistry": {
+      "type": "http",
+      "url": "",
+      "title": "企查查/天眼查",
+      "description": "关联方关系查询、股权穿透、实际控制人识别"
+    },
+    "BankStatement": {
+      "type": "http",
+      "url": "",
+      "title": "银行流水接口",
+      "description": "获取对账单和交易流水，用于资金循环分析"
+    }
+  },
+  "recommendedCategories": [
+    "forensic",
+    "accounting",
+    "data-analysis",
+    "compliance"
+  ]
+}
