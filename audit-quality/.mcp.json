@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "DocumentStorage": {
+      "type": "http",
+      "url": "",
+      "title": "文档存储",
+      "description": "底稿、报告、独立性确认函、培训记录、复核记录和制度文件"
+    },
+    "ERP": {
+      "type": "http",
+      "url": "",
+      "title": "企业 ERP 系统",
+      "description": "在需要核对项目底稿与财务数据一致性时使用"
+    },
+    "EnterpriseIM": {
+      "type": "http",
+      "url": "",
+      "title": "企业即时通讯",
+      "description": "发送整改提醒、质量复核通知和培训安排"
+    }
+  },
+  "recommendedCategories": [
+    "audit",
+    "quality-control",
+    "document-management"
+  ]
+}
