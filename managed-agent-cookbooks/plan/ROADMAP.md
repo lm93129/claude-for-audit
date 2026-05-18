@@ -17,20 +17,20 @@
 
 ## Phase 2：核心技能开发（statutory-audit）
 
-- [ ] skills/cold-start-interview/SKILL.md ← **已完成骨架**
-- [ ] skills/customize/SKILL.md ← **已完成**
-- [ ] skills/materiality/SKILL.md ← **已完成**
-- [ ] skills/analytical-review/SKILL.md ← **已完成**
-- [ ] skills/confirmations/SKILL.md ← **已完成**
-- [ ] skills/journal-entry-testing/SKILL.md ← **已完成**
-- [ ] skills/risk-assessment/SKILL.md
-- [ ] skills/ic-review/SKILL.md
-- [ ] skills/substantive-testing/SKILL.md
-- [ ] skills/sampling/SKILL.md
-- [ ] skills/wp-generator/SKILL.md
-- [ ] skills/review-notes/SKILL.md
-- [ ] skills/report-drafting/SKILL.md
-- [ ] agents/deadline-watcher.md
+- [x] skills/cold-start-interview/SKILL.md — 冷启动采访
+- [x] skills/customize/SKILL.md — 局部调整
+- [x] skills/materiality/SKILL.md — 重要性水平
+- [x] skills/analytical-review/SKILL.md — 分析性复核
+- [x] skills/confirmations/SKILL.md — 函证程序
+- [x] skills/journal-entry-testing/SKILL.md — 异常日记账
+- [x] skills/risk-assessment/SKILL.md — 风险评估（CSA 1211）
+- [x] skills/ic-review/SKILL.md — 内部控制评价（CSA 1231）
+- [x] skills/substantive-testing/SKILL.md — 实质性程序
+- [x] skills/sampling/SKILL.md — 审计抽样（CSA 1310）
+- [x] skills/wp-generator/SKILL.md — 底稿生成（CSA 1131）
+- [x] skills/review-notes/SKILL.md — 三级复核管理
+- [x] skills/report-drafting/SKILL.md — 审计报告起草（CSA 1501~1504）
+- [x] agents/deadline-watcher.md — 截止日监控代理
 
 ## Phase 3：专项插件开发
 
