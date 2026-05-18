@@ -12,3 +12,9 @@
 | `/compliance-audit:anti-corruption` | 反商业贿赂合规审计 |
 | `/compliance-audit:tax-compliance` | 税务合规审计 |
 | `/compliance-audit:sox-like` | 内控合规评价 |
+
+## 设计特点
+
+- 以中国监管语境为主：个保法、数据安全法、反不正当竞争法、税收征管法等
+- 输出面向内部整改和管理层治理，不直接形成对外鉴证结论
+- 每项结论必须给出法规依据、制度依据、证据来源和整改优先级

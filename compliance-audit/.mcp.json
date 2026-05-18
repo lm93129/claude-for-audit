@@ -1,0 +1,34 @@
+{
+  "mcpServers": {
+    "ERP": {
+      "type": "http",
+      "url": "",
+      "title": "企业 ERP 系统",
+      "description": "获取财务与业务数据，用于税务、反舞弊和合规穿透测试"
+    },
+    "DocumentStorage": {
+      "type": "http",
+      "url": "",
+      "title": "文档存储",
+      "description": "制度、流程、合同、培训记录、台账和证据材料"
+    },
+    "EnterpriseIM": {
+      "type": "http",
+      "url": "",
+      "title": "企业即时通讯",
+      "description": "飞书/企业微信/钉钉等，获取通知、审批和沟通记录"
+    },
+    "BusinessRegistry": {
+      "type": "http",
+      "url": "",
+      "title": "企查查/天眼查",
+      "description": "工商信息、关联方、处罚记录、司法风险和股权穿透"
+    }
+  },
+  "recommendedCategories": [
+    "compliance",
+    "audit",
+    "document-management",
+    "accounting"
+  ]
+}
