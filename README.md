@@ -34,6 +34,7 @@
 - `ARCHITECTURE.md` — 架构设计说明
 - `STATUS.md` — 当前进度与待办
 - `DEMO.md` — 六大插件最小演示路径
+- `examples/` — 示例案例（当前含法定审计与内部审计 demo）
 - `references/` — 共享参考资料
 
 ## 仓库结构
